@@ -9,6 +9,6 @@
   <solid> Certificates Management</solid> <br>
 
 <h2> Screenshots </h2><br>
-<img src="images/Screenshots/1.png"
-<img src="images/Screenshots/2.png"
-<img src="images/Screenshots/3.png"
+<img src = "images/Screenshots/1.png">
+<img src = "images/Screenshots/2.png">
+<img src = "images/Screenshots/3.png">
